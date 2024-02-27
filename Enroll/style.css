@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.tha{display: flex;   
+}
+
+img{border-radius: 100%;}
+.cardp{
+    
+    border: 1px solid rgb(225, 225, 241);
+    margin: 1% 4%;
+    color: darkblue;
+    background-color: rgb(225, 225, 241);
+    border-radius: 10px;
+
+    text-align: start;
+}
+.cardb{
+    border;
+    background-color: rgb(225, 225, 241);
+    margin: 2% 10%;
+    border-radius: 10px;
+}
+.cardw{
+    margin: 2% 10%;
+
+}
+.n{display: flex;
+justify-content: right;}
+.t{
+    margin: 2% 10%;
+}
+.able{
+    background-color: rgb(145, 210, 240);
+    margin: 2% 10%;
+    width: 1100px;
+}
+.tr{
+    margin: 2% 10%;
+}
+.voucher{color: red;}
+.paid{color: green;}
+    
+    
+
+
